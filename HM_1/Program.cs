@@ -20,5 +20,5 @@ if(number1 > number2)
 }
 else 
 {
-    Console.WriteLine($"Больше число из {number1} и {number2} это {number2}");
+    Console.WriteLine($"Большое число из {number1} и {number2} это {number2}");
 }
