@@ -6,6 +6,7 @@
 918 -> 1
 */
 
+
 Console.Write("Enter a three-digit number: "); 
 int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
 string stringNumber = Convert.ToString(threeDigitNumber);
